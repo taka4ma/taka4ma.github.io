@@ -1,5 +1,7 @@
 # GoogleColaboratoryでPlantUMLを使ってUMLを作る
 
+※ このコンテンツはipynbファイルをmdファイルに変換した物です。オリジナルのipynbファイルは https://github.com/taka4ma/taka4ma.github.io/blob/master/contents/0005/0005_Creating_UML_in_GoogleColaboratory.ipynb で見ることができます。
+
 タイトルのとおり、このnotebookではGoogleColaboratory環境に[PlantUML](https://plantuml.com/ja/)をインストールして、UMLを作成します。
 
 ## PlantUMLのインストール

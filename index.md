@@ -1,4 +1,5 @@
 # my study note
+- [GoogleColaboratoryでPlantUMLを使ってUMLを作る](./contents/005/0005_Creating_UML_in_GoogleColaboratory.md)
 - [k8s概要](./contents/0004_k8s_overview.md)
 - [Ubuntu Serverへのjupyter notebookインストール手順](./contents/0003.md)
 - [kitchen-docker用Dockerfile](./contents/0002.md)
