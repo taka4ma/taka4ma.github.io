@@ -1,6 +1,6 @@
 # my study note
 - [GoogleColaboratoryでboto3を使用するサンプルnotebook](./contents/0006.md)
-- [GoogleColaboratoryでPlantUMLを使ってUMLを作る](./contents/0005/0005_Creating_UML_in_GoogleColaboratory.md)
+- [GoogleColaboratoryでPlantUMLを使ってUMLを作る](./contents/0005.md)
 - [k8s概要](./contents/0004_k8s_overview.md)
 - [Ubuntu Serverへのjupyter notebookインストール手順](./contents/0003.md)
 - [kitchen-docker用Dockerfile](./contents/0002.md)
