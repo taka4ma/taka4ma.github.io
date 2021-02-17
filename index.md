@@ -1,4 +1,4 @@
-# my study note
+# my note
 - [GoogleColaboratoryでboto3を使用するサンプルnotebook](./contents/0006.md)
 - [GoogleColaboratoryでPlantUMLを使ってUMLを作る](./contents/0005.md)
 - [k8s概要](./contents/0004_k8s_overview.md)
