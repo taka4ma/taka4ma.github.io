@@ -1,4 +1,6 @@
 # my note
+- [Amazon Linux2に最新バージョンのSQLiteをインストールする](./contents/0009.md)
+- [Cloud9にDjango開発環境を作る](./contents/0008.md)
 - [Cloud9でPython開発環境を作る](./contents/0007/0007.md)
 - [GoogleColaboratoryでboto3を使用するサンプルnotebook](./contents/0006.md)
 - [GoogleColaboratoryでPlantUMLを使ってUMLを作る](./contents/0005.md)
