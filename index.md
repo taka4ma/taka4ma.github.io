@@ -1,4 +1,5 @@
 # my note
+- [GoogleLolaboratoryからboto3を使ってEC2にインスタンスを起動するサンプルnotebook](./contents/0010.md)
 - [Amazon Linux2に最新バージョンのSQLiteをインストールする](./contents/0009.md)
 - [Cloud9にDjango開発環境を作る](./contents/0008.md)
 - [Cloud9でPython開発環境を作る](./contents/0007/0007.md)
